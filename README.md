@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mar7711
+- 👋 Hi, I’m Mary
 - 👀 I’m interested in many interesting things :)
 - 🌱 I’m currently learning html - css - JavaScript 
 - 💞️ I am looking for some positive and innovative cooperation...
